@@ -4,8 +4,24 @@
 ! Expires: 1 days
 
 ! ==========================================
-! 1. 元素隱藏與版面美化 (Cosmetic Filtering)
+! 1. 台灣常用媒體與論壇版面優化 (Cosmetic)
 ! ==========================================
 
-! --- T客邦 (TechBang) 電子報嵌入欄位/區塊 ---
+! --- 數位時代 (BNext / FC) ---
+fc.bnext.com.tw###pumpkin_200
+www.bnext.com.tw###pumpkin_159
+www.bnext.com.tw##div.pumpkin_middle_text
+www.bnext.com.tw##div.relative.text-center.support-pumpkin.support-box[title][data-space]
+
+! --- Dcard ---
+www.dcard.tw##aside[style]
+
+! --- 鏡週刊 (Mirror Media) ---
+www.mirrormedia.mg##div._popIn_infinite_page
+
+! --- T客邦 (TechBang) ---
 www.techbang.com##div.newsletter2in1
+
+! --- 關鍵評論網 (The News Lens) ---
+www.thenewslens.com##div.ad-content
+www.thenewslens.com##div.article-mask-box.js-article-mask-box
