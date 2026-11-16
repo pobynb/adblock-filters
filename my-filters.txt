@@ -1,0 +1,11 @@
+! Title: Pobynb Custom Filters
+! Description: Personal adblock and cosmetic filtering rules for uBlock Origin
+! Homepage: https://github.com/pobynb/adblock-filters
+! Expires: 1 days
+
+! ==========================================
+! 1. 元素隱藏與版面美化 (Cosmetic Filtering)
+! ==========================================
+
+! --- T客邦 (TechBang) 電子報嵌入欄位/區塊 ---
+www.techbang.com##div.newsletter2in1
